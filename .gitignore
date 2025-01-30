@@ -1,0 +1,40 @@
+# Virtual environment
+env/
+spam-detection-env/
+venv/
+.conda/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Data & model files
+data/
+*.csv
+*.json
+*.xlsx
+*.db
+*.h5
+*.pkl
+*.sav
+*.npy
+*.npz
+
+# Logs & system files
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment config
+.env
+*.config
+credentials.json
